@@ -62,5 +62,5 @@ Durante este projeto, aprendi a:
 
 ## Conclusão
 
-Este projeto mostra como o Azure pode ser uma ferramenta poderosa para análise de sentimentos em avaliações reais de usuários. A capacidade de classificar emoções e interpretar intenções em larga escala pode ser aplicada em empresas, SACs e plataformas de e-commerce para melhorar o atendimento ao cliente.
+Este projeto me permitiu conhecer a plataforma da azure e como posso fazer análises de diversas formas que vai além de análise de sentimentos, como transcrições em tempo real, análise de imagens, dentre outras varias ferramentas de análise que a plataforma proporciona.
 
